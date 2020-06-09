@@ -68,7 +68,6 @@ clear
 
 
 
-echo" REVA "
 termux-setup-storage
 clear 
 printf "\e[1;92m########################################\e[0m\n"
@@ -116,7 +115,7 @@ pkg install zip -y
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#      BWASTA TA TOR DAXEL DABE       # \e[0m\n"
+printf "\e[1;92m#      BWASTA TA TOR DAXEL DABE        # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 pkg install tor -y
 sleep 1
