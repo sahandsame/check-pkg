@@ -68,8 +68,7 @@ clear
 
 
 
-echo"
-"
+echo" REVA "
 termux-setup-storage
 clear 
 printf "\e[1;92m########################################\e[0m\n"
