@@ -17,6 +17,7 @@ pkg upgrade -y
 
 echo " REVA "
 sleep 1
+clear
 printf "\e[1;92m########################################\e[0m\n"
 printf "\e[1;92m#            \ \    R    / /           # \e[0m\n"
 printf "\e[1;92m#             \ \   R    / /           # \e[0m\n"
@@ -150,7 +151,7 @@ pkg install sl -y
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;4m#                 HALOY                 # \e[0m\n"
+printf "\e[1;4m#                HALOY                 # \e[0m\n"
 printf "\e[1;94m#                RASH                  # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 10
