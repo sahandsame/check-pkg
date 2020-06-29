@@ -7,7 +7,7 @@ cd $HOME
 printf "\e[1;92m########################################\e[0m\n"
 printf "\e[1;92m#      this tools Creat by REVA        # \e[0m\n"
 printf "\e[1;92m#                                      # \e[0m\n"
-printf "\e[1;92m#         student of shell             # \e[0m\n"
+printf "\e[1;92m#                ReVa                  # \e[0m\n"
 printf "\e[1;92m#                                      # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 4
@@ -95,6 +95,19 @@ printf "\e[1;92m########################################\e[0m\n"
 pkg install git -y
 sleep 1
 clear
+printf "\e[1;92m########################################\e[0m\n"
+printf "\e[1;92m#      BWASTA TA PIP 2 CHAK ABE        # \e[0m\n"
+printf "\e[1;92m########################################\e[0m\n"
+pip2 install --upgrade pip2
+sleep 1 
+clear
+printf "\e[1;92m########################################\e[0m\n"
+printf "\e[1;92m#      BWASTA TA MECHANZE CHAK ABE     # \e[0m\n"
+printf "\e[1;92m########################################\e[0m\n"
+pip2 install requests mechanize 
+pip2 install requests
+sleep 1
+clear
 
 printf "\e[1;92m########################################\e[0m\n"
 printf "\e[1;92m#      BWASTA TA FIGLET DAXEL DABE     # \e[0m\n"
@@ -132,31 +145,17 @@ printf "\e[1;92m########################################\e[0m\n"
 pip install discord.py
 sleep 1
 clear
-cd $HOME
-cd ..
-rm -rif usr/etc/motd
-cd $HOME
-cd ..
-cd usr/etc
-mkdir REVA
-cd REVA
-echo SLAW BRAM AW TERMUXA CHAK KRAWA LA LAYAN REVA SWPAS BO BAKAR HENANE TOOLSAKA
-cd $HOME
-cd /sdcard
-mkdir REVA_FILE
-cd REVA_FILE
-echo SLAW BRAM AW TERMUXA CHAK KRAWA LA LAYAN REVA SWPAS BO BAKAR HENANE TOOLSAKA
-cd $HOME
+
 pkg install sl -y
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;4m#          follow my instagram          # \e[0m\n"
-printf "\e[1;94m#              @sh4hm                  # \e[0m\n"
+printf "\e[1;4m#                 HALOY                 # \e[0m\n"
+printf "\e[1;94m#                RASH                  # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
-sleep 15
+sleep 10
 clear
 figlet good bye 
-sleep 2 
+sleep 3 
 clear
 ls
