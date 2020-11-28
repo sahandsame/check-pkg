@@ -5,9 +5,9 @@ rm -rif usr/etc/motd
 cd $HOME
 
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#      this tools Creat by REVA        # \e[0m\n"
+printf "\e[1;92m#      this tools Creat by Alex        # \e[0m\n"
 printf "\e[1;92m#                                      # \e[0m\n"
-printf "\e[1;92m#                ReVa                  # \e[0m\n"
+printf "\e[1;92m#                ALEX                  # \e[0m\n"
 printf "\e[1;92m#                                      # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 4
@@ -19,50 +19,50 @@ echo " REVA "
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#            \ \    R    / /           # \e[0m\n"
-printf "\e[1;92m#             \ \   R    / /           # \e[0m\n"
+printf "\e[1;92m#            \ \    a    / /           # \e[0m\n"
+printf "\e[1;92m#             \ \   A    / /           # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#            / /    R    \ \           # \e[0m\n"
-printf "\e[1;92m#             / /   R    \ \           # \e[0m\n"
+printf "\e[1;92m#            / /    a    \ \           # \e[0m\n"
+printf "\e[1;92m#             / /   A    \ \           # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#           \ \    RE    / /           # \e[0m\n"
-printf "\e[1;92m#            \ \   RE    / /           # \e[0m\n"
+printf "\e[1;92m#           \ \    al    / /           # \e[0m\n"
+printf "\e[1;92m#            \ \   AL    / /           # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#           / /    RE    \ \           # \e[0m\n"
-printf "\e[1;92m#            / /   RE    \ \           # \e[0m\n"
+printf "\e[1;92m#           / /    al    \ \           # \e[0m\n"
+printf "\e[1;92m#            / /   AL    \ \           # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#           \ \    REV    / /          # \e[0m\n"
-printf "\e[1;92m#            \ \   REV    / /          # \e[0m\n"
+printf "\e[1;92m#           \ \    ale    / /          # \e[0m\n"
+printf "\e[1;92m#            \ \   ALE    / /          # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#            / /   REV    \ \          # \e[0m\n"
-printf "\e[1;92m#            / /   REV    \ \          # \e[0m\n"
+printf "\e[1;92m#            / /   ale    \ \          # \e[0m\n"
+printf "\e[1;92m#            / /   ALE    \ \          # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#          \ \    REVA    / /          # \e[0m\n"
-printf "\e[1;92m#           \ \   REVA    / /          # \e[0m\n"
+printf "\e[1;92m#          \ \    alex    / /          # \e[0m\n"
+printf "\e[1;92m#           \ \   ALEX    / /          # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#          / /    REVA    \ \          # \e[0m\n"
-printf "\e[1;92m#           / /   REVA    \ \          # \e[0m\n"
+printf "\e[1;92m#          / /    alex    \ \          # \e[0m\n"
+printf "\e[1;92m#           / /   ALEX    \ \          # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
@@ -151,8 +151,9 @@ pkg install sl -y
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;4m#                HALOY                  # \e[0m\n"
-printf "\e[1;94m#                RASH                  # \e[0m\n"
+printf "\e[1;4m#                STAFF                  # \e[0m\n"
+printf "\e[1;94m#               AVATAR                 # \e[0m\n"
+printf "\e[1;94m#            ALEX IS HERE              # \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 10
 clear
