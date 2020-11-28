@@ -159,4 +159,5 @@ clear
 figlet good bye 
 sleep 3 
 clear
+sleep 2
 ls
